@@ -1,6 +1,6 @@
 package com.company;
 
-public class MainOne {
+public class Main {
     public static void main(String[] args) {
         System.out.println("哈哈哈");
 
